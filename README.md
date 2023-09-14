@@ -8,4 +8,8 @@
 - ⚡ Fun fact: I'm a long distance runner
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansman58&count_private=true&theme=tokyonight&langs_count=10&border_color=0d1117&layout=compact&title_color=C9D1D9&text_color=8B949E&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansman58&show_icons=true&count_private=true&hide_border=true" width="34%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansman58&hide_border=true&layout=compact" width="25%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansman58" width="36%" />
+</div>
