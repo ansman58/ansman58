@@ -7,5 +7,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a long distance runner
 
+<div>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansman58&hide_border=true&layout=compact" width="25%" />
+</div>
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansman58" width="36%" />
+  </div>
